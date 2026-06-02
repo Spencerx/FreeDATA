@@ -36,7 +36,7 @@
     "dompurify": "^3.4.0",
     "gettext-parser": "^9.0.2",
     "gridstack": "^12.3.3",
-    "i18next": "^25.5.2",
+    "i18next": "^26.3.0",
     "i18next-vue": "^5.4.0",
     "js-image-compressor": "^2.0.0",
     "marked": "^18.0.3",
